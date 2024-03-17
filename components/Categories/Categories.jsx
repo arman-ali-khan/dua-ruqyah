@@ -3,11 +3,10 @@ import Link from "next/link";
 import CategoryCard from "./CategoryCard";
 
 function Categories({categories}) {
-console.log(categories,'categories')
     return (
-        <section className="w-[430px] xl:max-w-[430px] min-w-[350px]">
+        <section className="w-[430px] xl:max-w-[430px] overflow-hidden rounded-xl shadow-xl min-w-[350px]">
             {/* title */}
-            <div className="bg-white rounded-t-xl">
+            <div className="bg-white rounded-xl overflow-hidden">
             <div className="bg-primary flex justify-center h-14 rounded-t-xl items-center">
                 <h2 className="text-base text-white">Categories</h2>
             </div>

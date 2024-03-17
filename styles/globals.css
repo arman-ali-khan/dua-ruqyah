@@ -37,7 +37,7 @@
     font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   }
   .sidebar {
-    @apply flex h-[90vh] overflow-y-auto overflow-x-hidden p-4 justify-between items-center max-w-24 bg-white shadow-xl rounded-xl flex-col;
+    @apply flex h-[93vh] overflow-y-auto overflow-x-hidden p-4 justify-between items-center max-w-24 bg-white shadow-xl rounded-xl flex-col;
   }
   /* Scrollbar */
   /* width */

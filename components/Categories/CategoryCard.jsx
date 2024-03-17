@@ -8,20 +8,7 @@ import { useEffect, useState } from "react";
 
   function CategoryCard({category}) {
    
-  //   const searchParams = useSearchParams()
-  //   const categoryId = searchParams.get("cat");
 
-  //   // sub category data
-  //   const [subCategories,setSubCategories] = useState([])
-    
-  // useEffect(()=>{
-  //   axios.get(`${process.env.NEXT_PUBLIC_SUBCATEGORY_API}/1/en`)
-  //   .then(res=>{
-  //       setSubCategories(res.data)
-  //   })
-  // },[categoryId])
-
-  //   console.log(subCategories,categoryId, "sub data");
     
     
   return (
