@@ -9,6 +9,9 @@
   .bg-primary {
     background-color: #1fa45b;
   }
+  .border-primary {
+    border-color: #1fa45b;
+  }
   .bg-secondary {
     background: #e8f0f5;
   }
